@@ -1,7 +1,7 @@
 {
   "name": "tab: a startpage",
   "description": "a new tab page featuring simple command line input",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "manifest_version": 2,
   "chrome_url_overrides": {
     "newtab": "redirect.html"
